@@ -3,6 +3,10 @@
 Welcome to my portfolio! Explore my projects and skills below.
 
 ![My Portfolio.](https://github.com/UmbrellaSkiies/Portfolio/blob/main/src/assets/images/work1.png)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7d8e679361dbaf45c5ad4b8b944732abd530e65a
 ## Projects
 
 ### Project 1: [Project Name]
